@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "components": {
+    "cta-banner": {
+      "file": "src/components/content/CTABanner.tsx",
+      "tag": "section"
+    },
+    "care-cards": {
+      "file": "src/components/content/CareCards.tsx",
+      "tag": "SectionWrapper"
+    },
+    "care-type-detail": {
+      "file": "src/components/content/CareTypeDetail.tsx",
+      "tag": "article"
+    },
+    "contact-form": {
+      "file": "src/components/content/ContactForm.tsx",
+      "tag": "div"
+    },
+    "crisis-band": {
+      "file": "src/components/content/CrisisBand.tsx",
+      "tag": "section"
+    },
+    "faq-accordion": {
+      "file": "src/components/content/FaqAccordion.tsx",
+      "tag": "section"
+    },
+    "life-here-detail": {
+      "file": "src/components/content/LifeHereDetail.tsx",
+      "tag": "article"
+    },
+    "photo-grid": {
+      "file": "src/components/content/PhotoGrid.tsx",
+      "tag": "section"
+    },
+    "pricing-cards": {
+      "file": "src/components/content/PricingCards.tsx",
+      "tag": "section"
+    },
+    "resource-cards": {
+      "file": "src/components/content/ResourceCards.tsx",
+      "tag": "section"
+    },
+    "resource-detail": {
+      "file": "src/components/content/ResourceDetail.tsx",
+      "tag": "article"
+    },
+    "stats-bar": {
+      "file": "src/components/content/StatsBar.tsx",
+      "tag": "section"
+    },
+    "team-grid": {
+      "file": "src/components/content/TeamGrid.tsx",
+      "tag": "section"
+    },
+    "testimonials": {
+      "file": "src/components/content/Testimonials.tsx",
+      "tag": "section"
+    },
+    "why-section": {
+      "file": "src/components/content/WhySection.tsx",
+      "tag": "section"
+    },
+    "footer": {
+      "file": "src/components/layout/Footer.tsx",
+      "tag": "footer"
+    },
+    "navbar": {
+      "file": "src/components/layout/Navbar.tsx",
+      "tag": "header"
+    },
+    "page-hero": {
+      "file": "src/components/layout/PageHero.tsx",
+      "tag": "section"
+    },
+    "section-wrapper": {
+      "file": "src/components/layout/SectionWrapper.tsx",
+      "tag": "section"
+    },
+    "facility-card": {
+      "file": "src/components/storage/FacilityCard.tsx",
+      "tag": "Link"
+    },
+    "reservation-form": {
+      "file": "src/components/storage/ReservationForm.tsx",
+      "tag": "div"
+    },
+    "unit-group-card": {
+      "file": "src/components/storage/UnitGroupCard.tsx",
+      "tag": "article"
+    },
+    "badge": {
+      "file": "src/components/ui/Badge.tsx",
+      "tag": "span"
+    },
+    "button": {
+      "file": "src/components/ui/Button.tsx",
+      "tag": "a"
+    },
+    "divider": {
+      "file": "src/components/ui/Divider.tsx",
+      "tag": "div"
+    },
+    "motion-wrapper": {
+      "file": "src/components/ui/MotionWrapper.tsx",
+      "tag": "div"
+    }
+  },
+  "pages": {}
+}
